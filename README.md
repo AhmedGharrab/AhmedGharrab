@@ -19,14 +19,3 @@
 
 
 
-<h3 align="left">My favorite work :</h3>
-
-
-![Screenshot from 2022-08-08 21-58-25](https://user-images.githubusercontent.com/91995474/186916760-d5b077b1-6aa9-4e64-a029-0fe96f29abf3.png)
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbaiti1&theme=highcontrast" alt="sbaiti1" /></p>
-
-<a href="https://app.daily.dev/salma_sbaiti"><img src="https://api.daily.dev/devcards/ab73c04e5707478c9d21f5ffc8476cd3.png?r=rzz" width="400" alt="salma sbaiti's Dev Card"/>
